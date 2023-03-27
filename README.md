@@ -3,5 +3,5 @@
 ## Taco tarifi
 Umarım beğenirsiniz.
 Şimdi sizinle Patika.dev linkimi paylaşıyorum.
+
 [Patika.dev] (https://app.patika.dev/nesliihan)
-[Tarif görüntüsü] (file:///C:/Users/snesl/desktop/proje/html-odev-3/index.html)
